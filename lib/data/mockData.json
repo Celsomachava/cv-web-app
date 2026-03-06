@@ -1,0 +1,137 @@
+{
+  "templateId": "modern",
+  "themeColor": "#6d54b0",
+  "personal": {
+    "firstName": "Sarah",
+    "lastName": "Johnson",
+    "fullName": "Sarah Johnson",
+    "email": "sarah.johnson@email.com",
+    "phone": "+1 (555) 123-4567",
+    "address": "123 Main Street",
+    "city": "San Francisco",
+    "postcode": "94102",
+    "country": "United States",
+    "birthDate": "March 15, 1990",
+    "nationality": "American",
+    "drivingLicense": "Class B",
+    "linkedin": "linkedin.com/in/sarahjohnson",
+    "website": "sarahjohnson.dev",
+    "twitter": "@sarahdev",
+    "title": "Senior Full Stack Developer",
+    "photo": ""
+  },
+  "summary": "Passionate and results-driven Full Stack Developer with 8+ years of experience building scalable web applications and leading development teams. Expertise in React, Node.js, and cloud technologies. Proven track record of delivering high-quality software solutions that drive business growth and enhance user experience. Strong advocate for clean code, test-driven development, and agile methodologies.",
+  "experience": [
+    {
+      "id": "exp1",
+      "position": "Senior Full Stack Developer",
+      "company": "TechCorp Solutions",
+      "location": "San Francisco, CA",
+      "startDate": "Jan 2020",
+      "endDate": "",
+      "current": true,
+      "description": "Lead a team of 5 developers in building enterprise-level SaaS applications. Architected and implemented microservices infrastructure using Node.js and Docker, resulting in 40% improved system performance. Spearheaded the migration from monolithic architecture to microservices, reducing deployment time by 60%."
+    },
+    {
+      "id": "exp2",
+      "position": "Full Stack Developer",
+      "company": "Digital Innovations Inc",
+      "location": "San Francisco, CA",
+      "startDate": "Mar 2018",
+      "endDate": "Dec 2019",
+      "current": false,
+      "description": "Developed and maintained multiple client-facing web applications using React and Node.js. Implemented CI/CD pipelines using Jenkins and GitHub Actions. Collaborated with UX designers to create responsive and accessible user interfaces. Reduced page load times by 50% through code optimization and lazy loading."
+    },
+    {
+      "id": "exp3",
+      "position": "Junior Web Developer",
+      "company": "StartUp Labs",
+      "location": "Palo Alto, CA",
+      "startDate": "Jun 2016",
+      "endDate": "Feb 2018",
+      "current": false,
+      "description": "Built responsive websites and web applications for various clients. Worked with HTML, CSS, JavaScript, and PHP. Participated in agile development processes and daily stand-ups. Contributed to open-source projects and maintained technical documentation."
+    }
+  ],
+  "education": [
+    {
+      "id": "edu1",
+      "degree": "Master of Science in Computer Science",
+      "school": "Stanford University",
+      "location": "Stanford, CA",
+      "startDate": "2014",
+      "endDate": "2016",
+      "description": "Specialized in Software Engineering and Distributed Systems. GPA: 3.8/4.0",
+      "hideDates": false,
+      "extraInfo": "Thesis: Optimizing Database Query Performance in Distributed Systems"
+    },
+    {
+      "id": "edu2",
+      "degree": "Bachelor of Science in Information Technology",
+      "school": "University of California, Berkeley",
+      "location": "Berkeley, CA",
+      "startDate": "2010",
+      "endDate": "2014",
+      "description": "Dean's List all semesters. President of Computer Science Club.",
+      "hideDates": false,
+      "extraInfo": "Graduated Summa Cum Laude"
+    }
+  ],
+  "skills": [
+    "JavaScript",
+    "TypeScript",
+    "React",
+    "Next.js",
+    "Node.js",
+    "Express",
+    "MongoDB",
+    "PostgreSQL",
+    "Docker",
+    "Kubernetes",
+    "AWS",
+    "Git",
+    "CI/CD",
+    "REST APIs",
+    "GraphQL",
+    "Agile/Scrum"
+  ],
+  "languages": [
+    {
+      "id": "lang1",
+      "language": "English",
+      "proficiency": "Native"
+    },
+    {
+      "id": "lang2",
+      "language": "Spanish",
+      "proficiency": "Advanced"
+    },
+    {
+      "id": "lang3",
+      "language": "French",
+      "proficiency": "Intermediate"
+    }
+  ],
+  "certifications": [
+    {
+      "id": "cert1",
+      "name": "AWS Certified Solutions Architect",
+      "issuer": "Amazon Web Services",
+      "date": "2022",
+      "credentialId": "AWS-SA-2022-12345"
+    },
+    {
+      "id": "cert2",
+      "name": "Professional Scrum Master I",
+      "issuer": "Scrum.org",
+      "date": "2021",
+      "credentialId": "PSM-I-2021-67890"
+    }
+  ],
+  "hobbies": [
+    "Open Source Contributing",
+    "Tech Blogging",
+    "Photography",
+    "Hiking"
+  ]
+}
